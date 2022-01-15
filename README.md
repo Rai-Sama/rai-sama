@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a computer engineering student with an interest in Machine Learning, Data science, quantum computing and competitive programming among other things. Feel free to contact me through the provided social media links.
+I am a computer engineering student with an interest in Machine Learning, data science, quantum computing and competitive programming among other things. Feel free to contact me through the provided social media links.
 
 <!--
 **Rai-Sama/rai-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 ## Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C?&logo=C&logoColor=white)
