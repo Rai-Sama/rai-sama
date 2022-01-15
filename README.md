@@ -61,6 +61,11 @@ Here are some ideas to get you started:
 
 ## Social
 <p align="left">
+   
+ <a href="https://www.linkedin.com/in/anshuman-rai-sama/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.codechef.com/users/anshuman3rai">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -72,11 +77,15 @@ Here are some ideas to get you started:
   <a href="https://www.codewars.com/users/Anshuman3Rai">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
- 
- <a href="https://www.linkedin.com/in/anshuman-rai-sama/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="codewars" style="vertical-align:top; margin:4px">
+  
+   <a href="https://lichess.org/@/raisama69">
+    <img src="https://raw.githubusercontent.com/ornicar/lila/master/public/logo/lichess-favicon-32-invert.png" alt="Lichess" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
  
+  <a href="https://www.chess.com/member/inventorofches">
+    <img src="https://raw.githubusercontent.com/JairusSW/Chess.com/master/img/icon.ico" alt="Chess.com" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight" />
