@@ -1,6 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Anshuman+Rai;Here's+a+list+of+all+my+interests;Data+science+-+Analytics,+ML/AI;Competitive+Programming;Quantum+computing;Watching+anime;Playing+chess;Reading;Making+people+waste+a+lot+of+time;Eating;Hydrating;Are+you+still+Reading?;Playing+games;Watching+movies;I'm+out+of+ways+to+waste+time;...;...;Wow+you+have+nothing+to+do)](https://git.io/typing-svg)
 
-I am a computer engineering student with an interest in Machine Learning, data science, quantum computing and competitive programming among other things. Feel free to contact me through the provided social media links.
 
 <!--
 **Rai-Sama/rai-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,6 +60,30 @@ Here are some ideas to get you started:
 ![pyCharm](https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## Social
-<a href="https://linkedin.com/in/anshuman-rai-sama"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5?&logo=linkedin&logoColor=white"/></a>
+<p align="left">
+  <a href="https://www.codechef.com/users/anshuman3rai">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+ 
+ <a href="https://codeforces.com/profile/Rai369">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codewars.com/users/Anshuman3Rai">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+ 
+ <a href="https://www.linkedin.com/in/anshuman-rai-sama/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="codewars" style="vertical-align:top; margin:4px">
+  </a> &nbsp;&nbsp;&nbsp;
+ 
+</p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight" />
+
+
+## For those who prefer graphs 👇
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rai-sama&theme=github)
+
+## Is this funny?
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
