@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="50%" height="180"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Anshuman+Rai;Here's+a+list+of+all+my+interests;Data+science+-+Analytics,+ML/AI;Competitive+Programming;Quantum+computing;Watching+anime;Playing+chess;Reading;Making+people+waste+a+lot+of+time;Eating;Hydrating;Are+you+still+Reading?;Playing+games;Watching+movies;I'm+out+of+ways+to+waste+time;...;...;Wow+you+have+nothing+to+do)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Anshuman+Rai;Here's+a+list+of+all+my+interests;Data+science+-+Analytics,+ML/AI;Competitive+Programming;Quantum+computing;Watching+anime;Playing+chess;Reading;Making+people+waste+a+lot+of+time;Eating;Hydrating;Are+you+still+Reading?;Playing+games;Watching+movies;I'm+out+of+ways+to+waste+time;...;...;Wow+you+have+nothing+to+do&color=0FFF50)](https://git.io/typing-svg)
 
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <br/> <br/>
 
-## Languages
+## Languages 
 
 ![C](https://img.shields.io/badge/C-%2300599C?&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?&logo=c%2B%2B&logoColor=white")
@@ -88,14 +88,14 @@ Here are some ideas to get you started:
   
 </p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=tokyonight" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=chartreuse-dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=chartreuse-dark" />
 
 
 ## For those who prefer graphs 👇
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rai-sama&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rai-sama&theme=chartreuse-dark)
 
 ## Is this funny?
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
 
 ## Here's something funnier 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rai-sama)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rai-sama&theme=chartreuse-dark)](https://git.io/streak-stats)
