@@ -96,3 +96,6 @@ Here are some ideas to get you started:
 
 ## Is this funny?
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+## Here's something funnier 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rai-sama)](https://git.io/streak-stats)
