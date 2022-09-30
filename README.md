@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 Find out more about me 👉 <a href="https://anshumanrai2.pythonanywhere.com">here</a>. 
 <br>
 I am not a web dev, just made this for fun so cut me some slack there!
