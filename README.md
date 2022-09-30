@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/> <br/>
+
+<br>
+Find out more about me 👉 <a href="https://anshumanrai2.pythonanywhere.com">here</a>. 
+<br>
+I am not a web dev, just made this for fun so cut me some slack there!
 
 ## Languages 
-
 ![C](https://img.shields.io/badge/C-%2300599C?&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?&logo=c%2B%2B&logoColor=white")
 ![Python](https://img.shields.io/badge/-Python-%2314354C?&logo=Python)
@@ -61,7 +64,6 @@ Here are some ideas to get you started:
 
 ## Social
 <p align="left">
-   
  <a href="https://www.linkedin.com/in/anshuman-rai-sama/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
@@ -84,8 +86,7 @@ Here are some ideas to get you started:
  
   <a href="https://www.chess.com/member/inventorofches">
     <img src="https://raw.githubusercontent.com/JairusSW/Chess.com/master/img/icon.ico" alt="Chess.com" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
-  
+  </a> &nbsp;&nbsp;&nbsp; 
 </p>
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=chartreuse-dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=chartreuse-dark" />
