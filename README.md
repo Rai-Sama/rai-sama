@@ -24,18 +24,15 @@ Find out more about me 👉 <a href="https://anshumanrai2.pythonanywhere.com">he
 
 ## Languages 
 ![C](https://img.shields.io/badge/C-%2300599C?&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?&logo=c%2B%2B&logoColor=white")
-![Python](https://img.shields.io/badge/-Python-%2314354C?&logo=Python)
-![Java](https://img.shields.io/badge/JAVA-%23ED8B00?&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-%23ED8B00?&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?&logo=JavaScript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4?&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f?&logo=mysql&logoColor=white")
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2?&logo=dart&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72?&logo=lua&logoColor=white)
 
 ## ML/DL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=TensorFlow&logoColor=white)
@@ -51,6 +48,14 @@ Find out more about me 👉 <a href="https://anshumanrai2.pythonanywhere.com">he
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?&logo=Flutter&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF?&logo=opengl)
 ![jQuery](https://img.shields.io/badge/jquery-000?&logo=jquery&logoColor=00599C)
+
+## Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Azure_Functions](https://img.shields.io/badge/Azure_Functions-0062AD?logo=azure-functions&logoColor=white)
+
+## Data analysis & reporting
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power_Bi](https://img.shields.io/badge/power_bi-F2C811?logo=powerbi&logoColor=white)
 
 ## IDEs/Editors
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?&logo=visual-studio&logoColor=white)
