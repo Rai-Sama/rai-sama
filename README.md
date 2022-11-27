@@ -1,25 +1,9 @@
-<img alt="GIF" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/raigif_1.gif" width="70%" height="300"/> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Anshuman+Rai;Here's+a+list+of+all+my+interests;Data+science+-+Analytics,+ML/AI;Competitive+Programming;Quantum+computing;Watching+anime;Playing+chess;Reading;Making+people+waste+a+lot+of+time;Eating;Hydrating;Are+you+still+Reading?;Playing+games;Watching+movies;I'm+out+of+ways+to+waste+time;...;...;Wow+you+have+nothing+to+do&color=0FFF50)](https://git.io/typing-svg)
 
-
-<!--
-**Rai-Sama/rai-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Find out more about me 👉 <a href="https://anshumanrai2.pythonanywhere.com">here</a>. 
-<br>
+👉 <a href="https://anshumanrai2.pythonanywhere.com">Find out more about me on this resume-style website</a>
+<br><br>
+## A Summary of My Github
+<img alt="Summary" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/piechart.png" width="50%" height="300"/> 
 
 
 ## Languages 
