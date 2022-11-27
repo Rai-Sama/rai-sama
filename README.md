@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/gifgh1.gif" width="70%" height="300"/> 
+<img alt="GIF" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/raigif_1.gif" width="70%" height="300"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Anshuman+Rai;Here's+a+list+of+all+my+interests;Data+science+-+Analytics,+ML/AI;Competitive+Programming;Quantum+computing;Watching+anime;Playing+chess;Reading;Making+people+waste+a+lot+of+time;Eating;Hydrating;Are+you+still+Reading?;Playing+games;Watching+movies;I'm+out+of+ways+to+waste+time;...;...;Wow+you+have+nothing+to+do&color=0FFF50)](https://git.io/typing-svg)
 
