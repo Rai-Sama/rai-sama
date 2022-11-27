@@ -3,7 +3,7 @@
 👉 <a href="https://anshumanrai2.pythonanywhere.com">Find out more about me on this resume-style website</a>
 <br><br>
 ## A Summary of My Github
-<img alt="Summary" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/piechart.png" width="50%" height="300"/> 
+<img alt="Summary" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/piechart.png" width="70%" height="300"/> 
 
 
 ## Languages 
