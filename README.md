@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Find out more about me 👉 <a href="https://anshumanrai2.pythonanywhere.com">here</a>. 
 <br>
-(I am not a web dev, just made this for fun so cut me some slack there!)
+
 
 ## Languages 
 ![C](https://img.shields.io/badge/C-%2300599C?&logo=C&logoColor=white)
