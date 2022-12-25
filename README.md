@@ -79,9 +79,8 @@
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=chartreuse-dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=chartreuse-dark" />
 
-
 ## For those who prefer graphs 👇
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rai-sama&theme=chartreuse-dark)
+![Rai-Sama's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rai-Sama&theme=high-contrast)
 
 ## Is this funny?
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
