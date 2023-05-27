@@ -89,7 +89,7 @@
 
 ## For those who prefer graphs 👇
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rai-sama&bg_color=181115&color=063ccb&line=063ccb&point=413e3e&area=true&hide_border=true)
+![Rai-Sama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rai-sama&bg_color=000000&color=063ccb&line=063ccb&point=413e3e&area=true&hide_border=true)
 
 ## Is this funny?
 
