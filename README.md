@@ -2,11 +2,13 @@
 
 👉 <a href="https://anshumanrai2.pythonanywhere.com">Find out more about me on this resume-style website</a>
 <br><br>
+
 ## A Summary of My Github
-<img alt="Summary" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/repo_summary.png" width="80%" height="400"/> 
 
+<img alt="Summary" src="https://raw.githubusercontent.com/Rai-Sama/rai-sama/main/repo_summary.png" width="80%" height="400"/>
 
-## Languages 
+## Languages
+
 ![C](https://img.shields.io/badge/C-%2300599C?&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
@@ -19,6 +21,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300f?&logo=mysql&logoColor=white")
 
 ## ML/DL
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?&logo=Keras&logoColor=white)
 ![pyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?&logo=PyTorch&logoColor=white)
@@ -26,6 +29,7 @@
 ![Numpy](https://img.shields.io/badge/numpy-%23013243?&logo=numpy&logoColor=white)
 
 ## Frameworks & Libraries
+
 ![Flask](https://img.shields.io/badge/flask-%23000?&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
@@ -34,14 +38,17 @@
 ![jQuery](https://img.shields.io/badge/jquery-000?&logo=jquery&logoColor=00599C)
 
 ## Cloud
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![Azure_Functions](https://img.shields.io/badge/Azure_Functions-0062AD?logo=azure-functions&logoColor=white)
 
 ## Data analysis & reporting
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Power_Bi](https://img.shields.io/badge/power_bi-F2C811?logo=powerbi&logoColor=white)
 
 ## IDEs/Editors
+
 ![VS](https://img.shields.io/badge/VisualStudio-5C2D91?&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-0078d7?&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?&logo=intellij-idea&logoColor=white)
@@ -51,6 +58,7 @@
 ![pyCharm](https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## Social
+
 <p align="left">
  <a href="https://www.linkedin.com/in/anshuman-rai-sama/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:top; margin:4px">
@@ -80,10 +88,13 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rai-sama&show_icons=true&theme=chartreuse-dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-sama&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=chartreuse-dark" />
 
 ## For those who prefer graphs 👇
-![Rai-Sama's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rai-Sama&theme=high-contrast)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rai-sama&bg_color=181115&color=063ccb&line=063ccb&point=413e3e&area=true&hide_border=true)
 
 ## Is this funny?
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
 
-## Here's something funnier 
+## Here's something funnier
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rai-sama&theme=chartreuse-dark)](https://git.io/streak-stats)
